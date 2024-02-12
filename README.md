@@ -1,4 +1,5 @@
 # PIC18F4620 Paddle Game
+![image](https://github.com/NaderMohamed325/Bing_Bing/assets/112278447/6f866d35-c6a7-4648-a026-4b836e7d2e0d)
 
 Welcome to the PIC18F4620 Paddle Game repository! 🎮🚀
 
